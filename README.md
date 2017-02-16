@@ -2,8 +2,12 @@
 
 Simple examples about PyROOT:
 
-* [Creating histograms](CreatingHistograms.ipynb)
-
-# Jupyter
+## Jupyter
 
 [Notebook Online](http://nbviewer.jupyter.org/github/palominogallo/pyroot-examples/tree/master/)
+
+## GitHub
+
+* [Creating histograms](CreatingHistograms.ipynb)
+* [Reading histograms](ReadingHistograms.ipynb)
+
